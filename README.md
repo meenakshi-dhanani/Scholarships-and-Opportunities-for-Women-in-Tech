@@ -17,4 +17,4 @@ A mentorship program for women around the globe!
 
 <br/>
 
-Please feel free to [contribute](README.md) to the list. Feel free to reach out to me regarding any questions about the Google Anita Borg Memorial Scholarship. Contact me at meena24dhanani@gmail.com
+Please feel free to contribute to the list. Feel free to reach out to me regarding any questions about the Google Anita Borg Memorial Scholarship. Contact me at meena24dhanani@gmail.com
