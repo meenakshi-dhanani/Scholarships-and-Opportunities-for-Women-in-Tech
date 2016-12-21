@@ -8,7 +8,7 @@ Outreachy program organizes three-month paid internships with free and open sour
 ### [Google Anita Borg Memorial Scholarship/Women Techmakers Scholars Program](https://www.womentechmakers.com/scholars)
 The scholarship is awarded to female students who are studying computer science and technology, and who have exhibited good leadership skills and can become active role models. It consists of an academic scholarship,retreat and a chance to network with a strong community other women scholars and Googlers. 
 
-### [Grace Hopper Conference](http://ghc.anitaborg.org/)
+### [Grace Hopper Celebration](http://ghc.anitaborg.org/)
 
 ### [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
